@@ -251,9 +251,9 @@ $ python inference.py --inference_type ensemble --checkpoint <MODEL1PATH.pth> <M
             <a href="https://github.com/NOTITLEUNTITLE">용다운<br />inopiction@naver.com</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/Lala-chick"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/76460750?v=4"/></a>
+            <a href="https://github.com/aperyear"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/88475399?v=4"/></a>
             <br />
-            <a href="https://github.com/Lala-chick">이남주<br />깃허브 및 메일</a>
+            <a href="https://github.com/aperyear">이남주<br />aperyear@gmail.com</a>
         </td>
     </tr>
 </table>
