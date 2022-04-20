@@ -1,7 +1,7 @@
 
 # 🏆Happy-Whale - Whale and Dolphin Identification
 
-<div style="text-align:center"><img src=https://media.discordapp.net/attachments/869876441318301696/966164162864623686/1._.jpg?width=673&height=673></div>
+<div style="text-align:center"><img src="https://github.com/NOTITLEUNTITLE/dataset/blob/main/main.jpg?raw=true"></div>
 
 # Contents
 
