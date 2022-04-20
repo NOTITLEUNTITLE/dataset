@@ -23,7 +23,7 @@
 
 <center>
 <!-- <img src=https://github.com/NOTITLEUNTITLE/dataset/edit/main/update_3.svg width="500" height="600"> -->
-  <img src="https://raw.githubusercontent.com/NOTITLEUNTITLE/dataset/main/update_3.svg">
+  <img src="https://raw.githubusercontent.com/NOTITLEUNTITLE/dataset/main/update_3.svg" width="80%" height="80%">
   
 </center>
 
