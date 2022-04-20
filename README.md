@@ -46,8 +46,9 @@
 
 - 수식
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;MAP@5 = {1 \over U} \sum_{u=1}^{U} \sum_{k=1}^{min(n,5)}P(k) \times rel(k)" />
 
-$$MAP@5 = {1 \over U} \sum_{u=1}^{U} \sum_{k=1}^{min(n,5)}P(k) \times rel(k)$$
+
 
 
 | true  | predicted   | score |
