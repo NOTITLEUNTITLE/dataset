@@ -20,7 +20,10 @@
 # Task Description
 
 ### Subject
+
+<div style="text-align:center">
 <img src=https://raw.githubusercontent.com/NOTITLEUNTITLE/dataset/main/1.svg width="500" height="600">
+</div>
 
 
 
